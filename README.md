@@ -14,4 +14,4 @@ Database contains two tables
 
 2. transactions: all the details of the transaction history
 
-Flow of the Website: Home Page > View all Users > Select and Vi
+Flow of the Website: Home Page > View all Users > Select and View transfer history
